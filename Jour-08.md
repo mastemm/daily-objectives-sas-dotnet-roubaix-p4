@@ -5,9 +5,9 @@
 
 ### Git
 
-- [ ] Comprendre le fonctionnement des branches dans Git :
-    - [ ] Lister, changer, créer, supprimer des branches
-    - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+- [x] Comprendre le fonctionnement des branches dans Git :
+    - [x] Lister, changer, créer, supprimer des branches
+    - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 - [ ] Comprendre le merge dans Git
     - [ ] Comprendre le "fast forward"
     - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
