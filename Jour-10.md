@@ -4,17 +4,17 @@
 
 ### Git
 
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-  - [ ] Faire le tour du propriétaire
+- [x] Découverte de LazyGit
+  - [x] Installation et configuration
+  - [x] Intégration dans son editeur / workflow
+  - [x] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
-    - [ ] À quoi sert la commande `git fetch —prune`
-    - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
+    - [x] À quoi sert la commande `git fetch —prune`
+    - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
   - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
+  - [x] Différenciateur (par ex : Delta) 
   - [ ] Aliases 
   - [ ] Comprendre la différence entre config locale, globale et système
 
